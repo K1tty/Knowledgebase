@@ -12,6 +12,7 @@
 - [UObject Constructor, CDO, PostInitProperties and PostLoad](https://heapcleaner.wordpress.com/2016/06/11/uobject-constructor-postinitproperties-and-postload/)
 
 ## Databases
+- [ACID, MVCC vs Locks, Transaction Isolation Levels, and Concurrency](http://ithare.com/databases-101-acid-mvcc-vs-locks-transaction-isolation-levels-and-concurrency/)
 - [SQL vs NoSQL](http://ithare.com/nosql-vs-sql-for-mogs/)
 
 ## Books
