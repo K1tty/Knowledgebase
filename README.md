@@ -1,4 +1,7 @@
 # Knowledgebase
+## Generic
+- [GRASP](https://habr.com/ru/company/vdsina/blog/524664/)
+
 ## C++
 - [Perfect forwarding and universal references](https://eli.thegreenplace.net/2014/perfect-forwarding-and-universal-references-in-c)
 
