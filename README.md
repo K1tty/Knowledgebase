@@ -1,5 +1,6 @@
 # Knowledgebase
 ## Generic
+- [https://en.wikipedia.org/wiki/SOLID](https://en.wikipedia.org/wiki/SOLID)
 - [GRASP](https://habr.com/ru/company/vdsina/blog/524664/)
 
 ## C++
