@@ -3,7 +3,7 @@
 - [GRASP](https://habr.com/ru/company/vdsina/blog/524664/)
 
 ## C++
-- [Perfect forwarding and universal references](https://eli.thegreenplace.net/2014/perfect-forwarding-and-universal-references-in-c)
+- [Perfect forwarding and universal references](https://en.wikipedia.org/wiki/GRASP_(object-oriented_design))
 
 ## Network
 - [TCP & UDP](http://ithare.com/once-again-on-tcp-vs-udp/)
