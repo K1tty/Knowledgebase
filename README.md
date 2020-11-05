@@ -3,6 +3,7 @@
 - [Design Patterns](https://bool.dev/blog/detail/gof-design-patterns)
 - [SOLID](https://en.wikipedia.org/wiki/SOLID)
 - [GRASP](https://habr.com/ru/company/vdsina/blog/524664/)
+- [BIG-O Algorithm Complexity Cheat Sheet)(https://www.bigocheatsheet.com/)
 
 ## C++
 - [Perfect forwarding and universal references](https://en.wikipedia.org/wiki/GRASP_(object-oriented_design))
