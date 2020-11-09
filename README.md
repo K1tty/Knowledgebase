@@ -10,6 +10,7 @@
 
 ## C++
 - [Perfect forwarding and universal references](https://eli.thegreenplace.net/2014/perfect-forwarding-and-universal-references-in-c)
+- [Stay away from Volatile in threaded code](https://sites.google.com/site/kjellhedstrom2/stay-away-from-volatile-in-threaded-code)
 
 ## Network
 - [TCP & UDP](http://ithare.com/once-again-on-tcp-vs-udp/)
