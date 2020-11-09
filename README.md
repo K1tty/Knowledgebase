@@ -5,6 +5,9 @@
 - [GRASP](https://habr.com/ru/company/vdsina/blog/524664/)
 - [BIG-O Algorithm Complexity Cheat Sheet](https://www.bigocheatsheet.com/)
 
+## CPU
+- [Understanding Atomic Operations](https://jfdube.wordpress.com/2011/11/30/understanding-atomic-operations/)
+
 ## C++
 - [Perfect forwarding and universal references](https://eli.thegreenplace.net/2014/perfect-forwarding-and-universal-references-in-c)
 
