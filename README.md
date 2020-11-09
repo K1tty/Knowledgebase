@@ -35,3 +35,5 @@
 - [Development and Deployment of Multiplayer Online Games: from social games to MMOFPS, with stock exchanges in between](http://ithare.com/contents-of-development-and-deployment-of-massively-multiplayer-games-from-social-games-to-mmofps-with-stock-exchanges-in-between/)
 - [What Every Programmer Should Know About Memory](https://akkadia.org/drepper/cpumemory.pdf)
 - [C++ Core Guidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#main)
+- [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.2011.01.02a.pdf)
+
