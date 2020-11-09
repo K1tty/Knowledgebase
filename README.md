@@ -13,6 +13,7 @@
 - [Stay away from Volatile in threaded code](https://sites.google.com/site/kjellhedstrom2/stay-away-from-volatile-in-threaded-code)
 - [Memory Ordering at Compile Time](https://preshing.com/20120625/memory-ordering-at-compile-time/)
 - [Memory Barriers Are Like Source Control Operations](https://preshing.com/20120710/memory-barriers-are-like-source-control-operations/)
+- [Acquire and Release Semantics](https://preshing.com/20120913/acquire-and-release-semantics/)
 
 ## Network
 - [TCP & UDP](http://ithare.com/once-again-on-tcp-vs-udp/)
