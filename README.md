@@ -6,7 +6,7 @@
 - [BIG-O Algorithm Complexity Cheat Sheet](https://www.bigocheatsheet.com/)
 
 ## C++
-- [Perfect forwarding and universal references](https://en.wikipedia.org/wiki/GRASP_(object-oriented_design))
+- [Perfect forwarding and universal references](https://eli.thegreenplace.net/2014/perfect-forwarding-and-universal-references-in-c)
 
 ## Network
 - [TCP & UDP](http://ithare.com/once-again-on-tcp-vs-udp/)
