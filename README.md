@@ -11,9 +11,12 @@
 ## C++
 - [Perfect forwarding and universal references](https://eli.thegreenplace.net/2014/perfect-forwarding-and-universal-references-in-c)
 - [Stay away from Volatile in threaded code](https://sites.google.com/site/kjellhedstrom2/stay-away-from-volatile-in-threaded-code)
-- [Memory Ordering at Compile Time](https://preshing.com/20120625/memory-ordering-at-compile-time/)
-- [Memory Barriers Are Like Source Control Operations](https://preshing.com/20120710/memory-barriers-are-like-source-control-operations/)
-- [Acquire and Release Semantics](https://preshing.com/20120913/acquire-and-release-semantics/)
+- Memory model, Memory Barriers, Atomics and Acquire-Release semantics
+  - [Memory Ordering at Compile Time](https://preshing.com/20120625/memory-ordering-at-compile-time/)
+  - [Memory Barriers Are Like Source Control Operations](https://preshing.com/20120710/memory-barriers-are-like-source-control-operations/)
+  - [Acquire and Release Semantics](https://preshing.com/20120913/acquire-and-release-semantics/)
+  - [Weak vs. Strong Memory Models](https://preshing.com/20120930/weak-vs-strong-memory-models/)
+  - [The Synchronizes-With Relation](https://preshing.com/20130823/the-synchronizes-with-relation/)
 
 ## Network
 - [TCP & UDP](http://ithare.com/once-again-on-tcp-vs-udp/)
