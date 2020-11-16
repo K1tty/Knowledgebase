@@ -23,6 +23,10 @@
 - Packet Loss for an App-Level Developer
   - [Part 1](http://ithare.com/packet-loss-for-an-app-level-developer-part-i-router-failures-bgp-convergence-time-aqm-traffic-shapers/)
   - [Part 2](http://ithare.com/packet-loss-for-an-app-level-developer-part-ii-last-mile-wi-fi-and-summary/)
+  
+## Inter-Process Communication
+- Named Pipes
+- Memory-Mapped Files
 
 ## Character Encoding
 - [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
