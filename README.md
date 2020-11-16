@@ -1,9 +1,14 @@
 # Knowledgebase
-## Generic
+## Algorithms & Data Structures
+- [BIG-O Algorithm Complexity Cheat Sheet](https://www.bigocheatsheet.com/)
+
+## Design & Architecture
 - [Design Patterns](https://bool.dev/blog/detail/gof-design-patterns)
 - [SOLID](https://en.wikipedia.org/wiki/SOLID)
 - [GRASP](https://habr.com/ru/company/vdsina/blog/524664/)
-- [BIG-O Algorithm Complexity Cheat Sheet](https://www.bigocheatsheet.com/)
+- KISS
+- DRY
+- YAGNI
 
 ## CPU
 - [Understanding Atomic Operations](https://jfdube.wordpress.com/2011/11/30/understanding-atomic-operations/)
@@ -38,7 +43,7 @@
 - [UObject Constructor, CDO, PostInitProperties and PostLoad](https://heapcleaner.wordpress.com/2016/06/11/uobject-constructor-postinitproperties-and-postload/)
 - [UnrealGameSync workflow on Fortnite](https://cdn2.unrealengine.com/workflow-on-fortnite-whitepaper-final-181633758.pdf)
 
-## Databases
+## DB
 - [ACID, MVCC vs Locks, Transaction Isolation Levels, and Concurrency](http://ithare.com/databases-101-acid-mvcc-vs-locks-transaction-isolation-levels-and-concurrency/)
 - [SQL vs NoSQL](http://ithare.com/nosql-vs-sql-for-mogs/)
 
