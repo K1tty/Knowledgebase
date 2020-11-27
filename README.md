@@ -29,11 +29,12 @@
 - Packet Loss for an App-Level Developer
   - [Part 1](http://ithare.com/packet-loss-for-an-app-level-developer-part-i-router-failures-bgp-convergence-time-aqm-traffic-shapers/)
   - [Part 2](http://ithare.com/packet-loss-for-an-app-level-developer-part-ii-last-mile-wi-fi-and-summary/)
-- Network Synchronization for Games
+- Network Synchronization in Games
   - [Deterministic Lockstep](https://gafferongames.com/post/deterministic_lockstep/)
   - [Snapshot Interpolation](https://gafferongames.com/post/snapshot_interpolation/)
   - [Snapshot Compression](https://gafferongames.com/post/snapshot_compression/)
   - [State Synchronization](https://gafferongames.com/post/state_synchronization/)
+  - [Client-Side Prediction and Latency Compensation in Half-Life](https://developer.valvesoftware.com/wiki/Latency_Compensating_Methods_in_Client/Server_In-game_Protocol_Design_and_Optimization)
   
 ## Inter-Process Communication
 - Named Pipes
