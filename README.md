@@ -86,3 +86,8 @@
 - [C++ Core Guidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#main)
 - [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.2011.01.02a.pdf)
 - [Memory Barriers: a Hardware View for Software Hackers](http://www.rdrop.com/users/paulmck/scalability/paper/whymb.2010.07.23a.pdf)
+
+## Blogs
+- [Joe Duffy - Blogging about Midori](http://joeduffyblog.com/2015/11/03/blogging-about-midori/)
+- [Gaffer on Games](https://gafferongames.com)
+- [IT Hare](http://ithare.com)
