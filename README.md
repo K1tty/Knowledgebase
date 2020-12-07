@@ -49,7 +49,8 @@
 
 ## UnrealEngine
 - [UObject Constructor, CDO, PostInitProperties and PostLoad](https://heapcleaner.wordpress.com/2016/06/11/uobject-constructor-postinitproperties-and-postload/)
-- [UnrealGameSync workflow on Fortnite](https://cdn2.unrealengine.com/workflow-on-fortnite-whitepaper-final-181633758.pdf)
+- [UnrealGameSync Workflow on Fortnite](https://cdn2.unrealengine.com/workflow-on-fortnite-whitepaper-final-181633758.pdf)
+- [Gauntlet Automated Testing and Performance Metrics](https://horugame.com/gauntlet-automated-testing-and-performance-metrics-in-ue4/)
 
 ## DB
 - [ACID, MVCC vs Locks, Transaction Isolation Levels, and Concurrency](http://ithare.com/databases-101-acid-mvcc-vs-locks-transaction-isolation-levels-and-concurrency/)
