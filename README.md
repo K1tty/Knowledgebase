@@ -95,3 +95,4 @@
 
 ## Useful
 - [Game UI Database](https://www.gameuidatabase.com/)
+- [Choosing Open Source License](https://choosealicense.com/licenses/)
