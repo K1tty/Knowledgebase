@@ -106,8 +106,10 @@
 - [Gaffer on Games](https://gafferongames.com)
 - [IT Hare](http://ithare.com)
 - [Games From Within](https://gamesfromwithin.com/)
+- [eXtremely Distributed Software Development (XDSD™) Methodology](https://www.yegor256.com/tag/xdsd.html)
 
 ## Useful
 - [Game UI Database](https://www.gameuidatabase.com/)
 - [Choosing Open Source License](https://choosealicense.com/licenses/)
 - [GameDev Interview Questions](http://blog.gamedeff.com/?p=64)
+- [10 Mistakes in Software Specifications](https://www.yegor256.com/2015/11/10/ten-mistakes-in-specs.html)
