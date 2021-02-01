@@ -52,6 +52,8 @@
 - [HTTP basics](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP)
 
 ## UnrealEngine
+- [UE4 Intro for Beginners](https://jip.dev/notes/unreal-engine/)
+- [Creating Custom Navmesh for Unreal Engine 4](http://javid.nl/Navigation%20Mesh.pdf)
 - [UObject Constructor, CDO, PostInitProperties and PostLoad](https://heapcleaner.wordpress.com/2016/06/11/uobject-constructor-postinitproperties-and-postload/)
 - [UnrealGameSync Workflow on Fortnite](https://cdn2.unrealengine.com/workflow-on-fortnite-whitepaper-final-181633758.pdf)
 - [Gauntlet Automated Testing and Performance Metrics](https://horugame.com/gauntlet-automated-testing-and-performance-metrics-in-ue4/)
@@ -59,6 +61,9 @@
 ## DB
 - [ACID, MVCC vs Locks, Transaction Isolation Levels, and Concurrency](http://ithare.com/databases-101-acid-mvcc-vs-locks-transaction-isolation-levels-and-concurrency/)
 - [SQL vs NoSQL](http://ithare.com/nosql-vs-sql-for-mogs/)
+
+# Entity Component System (aka ECS)
+- [Pure ECS Technical Architecture](https://tsprojectsblog.wordpress.com/portfolio/entity-component-system/)
 
 ## Distributed Systems
 - [Introduction](https://m.youtube.com/watch?v=UEAMfLPZZhE&list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB&index=1)
@@ -85,6 +90,10 @@
 - [Collaboration Software](https://m.youtube.com/watch?v=OqqliwwG0SM&list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB&index=22)
 - [Google Spanner](https://m.youtube.com/watch?v=oeycOVX70aE&list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB&index=23)
 
+# GameDev Presentations
+- [Rendering Wounds in Left 4 Dead 2](https://steamcdn-a.akamaihd.net/apps/valve/2010/gdc2010_vlachos_l4d2wounds.pdf)
+- [The Physics and Networking of Rocket League](https://www.youtube.com/watch?v=ueEmiDM94IE&ab_channel=GDC)
+
 ## Books
 - [Development and Deployment of Multiplayer Online Games: from social games to MMOFPS, with stock exchanges in between](http://ithare.com/contents-of-development-and-deployment-of-massively-multiplayer-games-from-social-games-to-mmofps-with-stock-exchanges-in-between/)
 - [What Every Programmer Should Know About Memory](https://akkadia.org/drepper/cpumemory.pdf)
@@ -96,7 +105,9 @@
 - [Joe Duffy - Blogging about Midori](http://joeduffyblog.com/2015/11/03/blogging-about-midori/)
 - [Gaffer on Games](https://gafferongames.com)
 - [IT Hare](http://ithare.com)
+- [Games From Within](https://gamesfromwithin.com/)
 
 ## Useful
 - [Game UI Database](https://www.gameuidatabase.com/)
 - [Choosing Open Source License](https://choosealicense.com/licenses/)
+- [GameDev Interview Questions](http://blog.gamedeff.com/?p=64)
