@@ -24,6 +24,10 @@
   - [Weak vs. Strong Memory Models](https://preshing.com/20120930/weak-vs-strong-memory-models/)
   - [The Synchronizes-With Relation](https://preshing.com/20130823/the-synchronizes-with-relation/)
 
+## CMake
+- [How to Build CMake Based Project](http://preshing.com/20170511/how-to-build-a-cmake-based-project/)
+- [Learn CMake Scripting Language in 15 minutes](http://preshing.com/20170522/learn-cmakes-scripting-language-in-15-minutes/)
+
 ## Network
 - [TCP & UDP](http://ithare.com/once-again-on-tcp-vs-udp/)
 - Packet Loss for an App-Level Developer
