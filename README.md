@@ -63,7 +63,7 @@
 - [SQL vs NoSQL](http://ithare.com/nosql-vs-sql-for-mogs/)
 
 # Entity Component System (aka ECS)
-- [Pure ECS Technical Architecture](https://tsprojectsblog.wordpress.com/portfolio/entity-component-system/)
+- [Pure ECS Implementation](https://tsprojectsblog.wordpress.com/portfolio/entity-component-system/)
 
 ## Distributed Systems
 - [Introduction](https://m.youtube.com/watch?v=UEAMfLPZZhE&list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB&index=1)
