@@ -91,6 +91,9 @@
 - [Collaboration Software](https://m.youtube.com/watch?v=OqqliwwG0SM&list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB&index=22)
 - [Google Spanner](https://m.youtube.com/watch?v=oeycOVX70aE&list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB&index=23)
 
+# AI
+- [Goal Oriented Action Planning (GOAP)](http://alumni.media.mit.edu/~jorkin/goap.html)
+
 # GameDev Presentations
 - [Rendering Wounds in Left 4 Dead 2](https://steamcdn-a.akamaihd.net/apps/valve/2010/gdc2010_vlachos_l4d2wounds.pdf)
 - [The Physics and Networking of Rocket League](https://www.youtube.com/watch?v=ueEmiDM94IE&ab_channel=GDC)
