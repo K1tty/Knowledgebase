@@ -63,7 +63,7 @@
 - [ACID, MVCC vs Locks, Transaction Isolation Levels, and Concurrency](http://ithare.com/databases-101-acid-mvcc-vs-locks-transaction-isolation-levels-and-concurrency/)
 - [SQL vs NoSQL](http://ithare.com/nosql-vs-sql-for-mogs/)
 
-# Entity Component System (aka ECS)
+## Entity Component System (aka ECS)
 - [Pure ECS Implementation](https://tsprojectsblog.wordpress.com/portfolio/entity-component-system/)
 
 ## Distributed Systems
@@ -91,10 +91,10 @@
 - [Collaboration Software](https://m.youtube.com/watch?v=OqqliwwG0SM&list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB&index=22)
 - [Google Spanner](https://m.youtube.com/watch?v=oeycOVX70aE&list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB&index=23)
 
-# AI
+## AI
 - [Goal Oriented Action Planning (GOAP)](http://alumni.media.mit.edu/~jorkin/goap.html)
 
-# GameDev Presentations
+## GameDev Presentations
 - [Rendering Wounds in Left 4 Dead 2](https://steamcdn-a.akamaihd.net/apps/valve/2010/gdc2010_vlachos_l4d2wounds.pdf)
 - [The Physics and Networking of Rocket League](https://www.youtube.com/watch?v=ueEmiDM94IE&ab_channel=GDC)
 
