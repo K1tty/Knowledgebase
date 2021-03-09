@@ -58,7 +58,10 @@
 - [UnrealGameSync Workflow on Fortnite](https://cdn2.unrealengine.com/workflow-on-fortnite-whitepaper-final-181633758.pdf)
 - [Gauntlet Automated Testing and Performance Metrics](https://horugame.com/gauntlet-automated-testing-and-performance-metrics-in-ue4/)
 - [Cooking & ResavePackages Optimization](https://www.coconutlizard.co.uk/blog/the-cook-the-resave-his-garbage-and-her-optimization/)
-- [Asset Manager Usage](file:///C:/Users/o_okhrimenko/Downloads/136465-runtimeassetmanagementin416.pdf)
+- [Asset Manager Usage](https://answers.unrealengine.com/storage/temp/136465-runtimeassetmanagementin416.pdf)
+- [Editor: show that UAsset changed in the other branch](https://youtu.be/p4RcDpGQ_tI?t=1746)
+- [How to fix blueprint nativization errors](https://www.coconutlizard.co.uk/blog/placatingthenatives/)
+- [Gameplay Ability System](https://github.com/Pantong51/GASContent)
 
 ## DB
 - [ACID, MVCC vs Locks, Transaction Isolation Levels, and Concurrency](http://ithare.com/databases-101-acid-mvcc-vs-locks-transaction-isolation-levels-and-concurrency/)
