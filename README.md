@@ -62,6 +62,7 @@
 - [Editor: show that UAsset changed in the other branch](https://youtu.be/p4RcDpGQ_tI?t=1746)
 - [How to fix blueprint nativization errors](https://www.coconutlizard.co.uk/blog/placatingthenatives/)
 - [Gameplay Ability System](https://github.com/Pantong51/GASContent)
+- [Extensive UE4 Guides](https://ikrima.dev/ue4guide)
 
 ## DB
 - [ACID, MVCC vs Locks, Transaction Isolation Levels, and Concurrency](http://ithare.com/databases-101-acid-mvcc-vs-locks-transaction-isolation-levels-and-concurrency/)
