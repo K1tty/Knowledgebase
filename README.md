@@ -63,6 +63,7 @@
 - [How to fix blueprint nativization errors](https://www.coconutlizard.co.uk/blog/placatingthenatives/)
 - [Gameplay Ability System](https://github.com/Pantong51/GASContent)
 - [Extensive UE4 Guides](https://ikrima.dev/ue4guide)
+- [Network Push Model](https://tech-en.netlify.app/articles/en539604/index.html)
 
 ## DB
 - [ACID, MVCC vs Locks, Transaction Isolation Levels, and Concurrency](http://ithare.com/databases-101-acid-mvcc-vs-locks-transaction-isolation-levels-and-concurrency/)
