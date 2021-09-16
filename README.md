@@ -14,6 +14,9 @@
 - [CPU Caches: Population Strategies and Associativity](https://www.hardwaretimes.com/difference-between-l1-l2-and-l3-cache-types-and-importance-of-cpu-cache-2/)
 - [Understanding Atomic Operations](https://jfdube.wordpress.com/2011/11/30/understanding-atomic-operations/)
 
+## GPU
+- [A trip through the Graphics Pipeline](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/)
+
 ## C++
 - [Perfect forwarding and universal references](https://eli.thegreenplace.net/2014/perfect-forwarding-and-universal-references-in-c)
 - [Stay away from Volatile in threaded code](https://sites.google.com/site/kjellhedstrom2/stay-away-from-volatile-in-threaded-code)
