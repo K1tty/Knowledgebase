@@ -103,6 +103,9 @@
 ## AI
 - [Goal Oriented Action Planning (GOAP)](http://alumni.media.mit.edu/~jorkin/goap.html)
 
+## P4
+- [Perforce at Google](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/39983.pdf)
+
 ## GameDev Presentations
 - [Rendering Wounds in Left 4 Dead 2](https://steamcdn-a.akamaihd.net/apps/valve/2010/gdc2010_vlachos_l4d2wounds.pdf)
 - [The Physics and Networking of Rocket League](https://www.youtube.com/watch?v=ueEmiDM94IE&ab_channel=GDC)
