@@ -122,6 +122,7 @@
 - [eXtremely Distributed Software Development (XDSD™) Methodology](https://www.yegor256.com/tag/xdsd.html)
 
 ## Useful
+- [A Study Path for Game Programmer](https://github.com/miloyip/game-programmer)
 - [Game UI Database](https://www.gameuidatabase.com/)
 - [Choosing Open Source License](https://choosealicense.com/licenses/)
 - [GameDev Interview Questions](http://blog.gamedeff.com/?p=64)
