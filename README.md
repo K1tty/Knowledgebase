@@ -67,6 +67,7 @@
 - [Gameplay Ability System](https://github.com/Pantong51/GASContent)
 - [Extensive UE4 Guides](https://ikrima.dev/ue4guide)
 - [Network Push Model](https://tech-en.netlify.app/articles/en539604/index.html)
+- [Gargabge Collection](https://gist.github.com/LordNed/650de717daca23aaf8fc2932bf3f9123)
 
 ## DB
 - [ACID, MVCC vs Locks, Transaction Isolation Levels, and Concurrency](http://ithare.com/databases-101-acid-mvcc-vs-locks-transaction-isolation-levels-and-concurrency/)
