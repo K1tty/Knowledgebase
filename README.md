@@ -131,3 +131,10 @@
 - [Choosing Open Source License](https://choosealicense.com/licenses/)
 - [GameDev Interview Questions](http://blog.gamedeff.com/?p=64)
 - [10 Mistakes in Software Specifications](https://www.yegor256.com/2015/11/10/ten-mistakes-in-specs.html)
+
+## Cool C++ Libraries
+- [Loguru (fast lightweight logging library)](https://github.com/emilk/loguru)
+
+## Cool VisualStudio Plugins
+- [RockMargin (visual scrollbar)](https://marketplace.visualstudio.com/items?itemName=K1tty.RockMargin)
+- [Compile Score (compile time flamecharts)](https://marketplace.visualstudio.com/items?itemName=RamonViladomat.CompileScore2022)
