@@ -138,3 +138,6 @@
 ## Cool VisualStudio Plugins
 - [RockMargin (visual scrollbar)](https://marketplace.visualstudio.com/items?itemName=K1tty.RockMargin)
 - [Compile Score (compile time flamecharts)](https://marketplace.visualstudio.com/items?itemName=RamonViladomat.CompileScore2022)
+
+## Neural Networks
+- [High Level Usage Overview](https://www.fast.ai/)
