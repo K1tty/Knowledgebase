@@ -110,6 +110,7 @@
 ## GameDev Presentations
 - [Rendering Wounds in Left 4 Dead 2](https://steamcdn-a.akamaihd.net/apps/valve/2010/gdc2010_vlachos_l4d2wounds.pdf)
 - [The Physics and Networking of Rocket League](https://www.youtube.com/watch?v=ueEmiDM94IE&ab_channel=GDC)
+- [Distance Fields and Simulation Tricks in UE4](https://ubm-twvideo01.s3.amazonaws.com/o1/vault/gdc2019/presentations/Brucks_Ryan_Distance_Fields_And.pdf)
 
 ## Books
 - [Development and Deployment of Multiplayer Online Games: from social games to MMOFPS, with stock exchanges in between](http://ithare.com/contents-of-development-and-deployment-of-massively-multiplayer-games-from-social-games-to-mmofps-with-stock-exchanges-in-between/)
