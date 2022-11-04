@@ -69,6 +69,7 @@
 - [Network Push Model](https://tech-en.netlify.app/articles/en539604/index.html)
 - [Gargabge Collection](https://gist.github.com/LordNed/650de717daca23aaf8fc2932bf3f9123)
 - [Accurately Syncing Unreals Network Clock](https://medium.com/@invicticide/accurately-syncing-unreals-network-clock-87a3f9262594)
+- [Object analysis with Obj command](https://www.google.com/search?q=ue4+memsub&rlz=1C1GCEU_ruUA949UA949&oq=ue4+memsub&aqs=chrome..69i57j33i10i160l2.1628j0j7&sourceid=chrome&ie=UTF-8)
 
 ## DB
 - [ACID, MVCC vs Locks, Transaction Isolation Levels, and Concurrency](http://ithare.com/databases-101-acid-mvcc-vs-locks-transaction-isolation-levels-and-concurrency/)
