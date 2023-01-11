@@ -133,7 +133,7 @@
 - [A Study Path for Game Programmer](https://github.com/miloyip/game-programmer)
 - [Game UI Database](https://www.gameuidatabase.com/)
 - [Choosing Open Source License](https://choosealicense.com/licenses/)
-- [GameDev Interview Questions](http://blog.gamedeff.com/?p=64)
+- [GameDev Interview Questions](http://web.archive.org/web/20140729083939/http://blog.gamedeff.com/?p=64)
 - [10 Mistakes in Software Specifications](https://www.yegor256.com/2015/11/10/ten-mistakes-in-specs.html)
 
 ## Cool C++ Libraries
