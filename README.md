@@ -109,6 +109,7 @@
 
 ## P4
 - [Perforce at Google](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/39983.pdf)
+- [Perforce Directory Standard](https://swarm.workshop.perforce.com/projects/perforce_software-pds/download/main/PDS.docx)
 
 ## GameDev Presentations
 - [Rendering Wounds in Left 4 Dead 2](https://steamcdn-a.akamaihd.net/apps/valve/2010/gdc2010_vlachos_l4d2wounds.pdf)
