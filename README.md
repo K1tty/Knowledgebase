@@ -108,6 +108,9 @@
 ## AI
 - [Goal Oriented Action Planning (GOAP)](http://alumni.media.mit.edu/~jorkin/goap.html)
 
+## Procedural Generation
+- Wave Function Collapse
+
 ## P4
 - [Perforce at Google](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/39983.pdf)
 - [Perforce Directory Standard](https://swarm.workshop.perforce.com/projects/perforce_software-pds/download/main/PDS.docx)
