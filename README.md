@@ -146,6 +146,7 @@
 - [GameDev Interview Questions](http://web.archive.org/web/20140729083939/http://blog.gamedeff.com/?p=64)
 - [10 Mistakes in Software Specifications](https://www.yegor256.com/2015/11/10/ten-mistakes-in-specs.html)
 - [Geo Traceroute](https://stefansundin.github.io/traceroute-mapper/)
+- [Google Benchmark: Web Version](https://quick-bench.com/)
 
 ## Cool C++ Libraries
 - [Loguru (fast lightweight logging library)](https://github.com/emilk/loguru)
