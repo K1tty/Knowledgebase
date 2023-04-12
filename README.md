@@ -107,6 +107,7 @@
 
 ## AI
 - [Goal Oriented Action Planning (GOAP)](http://alumni.media.mit.edu/~jorkin/goap.html)
+- [Unit Formations & Coordinated Movement](https://www.gamedeveloper.com/programming/implementing-coordinated-movement)
 
 ## Procedural Generation
 - Wave Function Collapse
