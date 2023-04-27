@@ -73,6 +73,7 @@
 - [Object Analysis with Obj Command](https://www.google.com/search?q=ue4+memsub&rlz=1C1GCEU_ruUA949UA949&oq=ue4+memsub&aqs=chrome..69i57j33i10i160l2.1628j0j7&sourceid=chrome&ie=UTF-8)
 - [UObject Console Commands](https://www.cnblogs.com/kekec/p/13969408.html)
 - [Implementing Instant Replays (Killcam)](https://vorixo.github.io/devtricks/killcam/)
+- [UE Reflection in Details](https://habr.com/ru/articles/690662/)
 
 ## DB
 - [ACID, MVCC vs Locks, Transaction Isolation Levels, and Concurrency](http://ithare.com/databases-101-acid-mvcc-vs-locks-transaction-isolation-levels-and-concurrency/)
