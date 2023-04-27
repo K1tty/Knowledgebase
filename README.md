@@ -33,6 +33,7 @@
 
 ## Network
 - [TCP & UDP](http://ithare.com/once-again-on-tcp-vs-udp/)
+- [NAT & Hole Punching](https://bford.info/pub/net/p2pnat/)
 - Packet Loss for an App-Level Developer
   - [Part 1](http://ithare.com/packet-loss-for-an-app-level-developer-part-i-router-failures-bgp-convergence-time-aqm-traffic-shapers/)
   - [Part 2](http://ithare.com/packet-loss-for-an-app-level-developer-part-ii-last-mile-wi-fi-and-summary/)
