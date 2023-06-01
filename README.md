@@ -57,6 +57,7 @@
 
 ## UnrealEngine
 - [UE4 Intro for Beginners](https://jip.dev/notes/unreal-engine/)
+- [UE Modules](https://dev.epicgames.com/community/learning/tutorials/xJ/improving-code-structure-with-unreal-engine-s-c-modules)
 - [Creating Custom Navmesh for Unreal Engine 4](http://javid.nl/Navigation%20Mesh.pdf)
 - [UObject Constructor, CDO, PostInitProperties and PostLoad](https://heapcleaner.wordpress.com/2016/06/11/uobject-constructor-postinitproperties-and-postload/)
 - [UnrealGameSync Workflow on Fortnite](https://cdn2.unrealengine.com/workflow-on-fortnite-whitepaper-final-181633758.pdf)
