@@ -75,6 +75,7 @@
 - [UObject Console Commands](https://www.cnblogs.com/kekec/p/13969408.html)
 - [Implementing Instant Replays (Killcam)](https://vorixo.github.io/devtricks/killcam/)
 - [UE Reflection in Details](https://habr.com/ru/articles/690662/)
+- [How to Create Custom K2 Graph Nodes](https://unrealist.org/custom-blueprint-nodes/)
 
 ## DB
 - [ACID, MVCC vs Locks, Transaction Isolation Levels, and Concurrency](http://ithare.com/databases-101-acid-mvcc-vs-locks-transaction-isolation-levels-and-concurrency/)
