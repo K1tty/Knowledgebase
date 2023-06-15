@@ -76,6 +76,7 @@
 - [Implementing Instant Replays (Killcam)](https://vorixo.github.io/devtricks/killcam/)
 - [UE Reflection in Details](https://habr.com/ru/articles/690662/)
 - [How to Create Custom K2 Graph Nodes](https://unrealist.org/custom-blueprint-nodes/)
+- [UE Multiplayer Tips & Tricks](https://wizardcell.com/unreal/multiplayer-tips-and-tricks/)
 
 ## DB
 - [ACID, MVCC vs Locks, Transaction Isolation Levels, and Concurrency](http://ithare.com/databases-101-acid-mvcc-vs-locks-transaction-isolation-levels-and-concurrency/)
