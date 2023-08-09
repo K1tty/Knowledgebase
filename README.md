@@ -44,6 +44,7 @@
   - [State Synchronization](https://gafferongames.com/post/state_synchronization/)
   - [Client-Side Prediction and Latency Compensation in Half-Life](https://developer.valvesoftware.com/wiki/Latency_Compensating_Methods_in_Client/Server_In-game_Protocol_Design_and_Optimization)
   - [Overwatch ECS Architecture and Netcode](https://m.youtube.com/watch?v=W3aieHjyNvw)
+  - [Games Network Architectures](https://snapnet.dev/blog/netcode-architectures-part-2-rollback/)
   
 ## Inter-Process Communication
 - Named Pipes
