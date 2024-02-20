@@ -10,6 +10,10 @@
 - DRY
 - YAGNI
 
+## IEEE 754
+- [What Every Programmer Should Know About Floating-Point Arithmetic (simple)](https://www.phys.uconn.edu/~rozman/Courses/P2200_15F/downloads/floating-point-guide-2015-10-15.pdf)
+- [What Every Programmer Should Know About Floating-Point Arithmetic (hard)](https://pages.cs.wisc.edu/~david/courses/cs552/S12/handouts/goldberg-floating-point.pdf)
+
 ## CPU
 - [CPU Caches: Population Strategies and Associativity](https://www.hardwaretimes.com/difference-between-l1-l2-and-l3-cache-types-and-importance-of-cpu-cache-2/)
 - [Understanding Atomic Operations](https://jfdube.wordpress.com/2011/11/30/understanding-atomic-operations/)
