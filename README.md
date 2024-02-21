@@ -10,9 +10,11 @@
 - DRY
 - YAGNI
 
-## IEEE 754
+# What Every Programmer Should Know ...
+- [What Every Programmer Should Know About Concurrency](https://assets.bitbashing.io/papers/concurrency-primer.pdf)
 - [What Every Programmer Should Know About Floating-Point Arithmetic (simple)](https://www.phys.uconn.edu/~rozman/Courses/P2200_15F/downloads/floating-point-guide-2015-10-15.pdf)
 - [What Every Programmer Should Know About Floating-Point Arithmetic (hard)](https://pages.cs.wisc.edu/~david/courses/cs552/S12/handouts/goldberg-floating-point.pdf)
+- [What Every Programmer Should Know About Memory](https://akkadia.org/drepper/cpumemory.pdf)
 
 ## CPU
 - [CPU Caches: Population Strategies and Associativity](https://www.hardwaretimes.com/difference-between-l1-l2-and-l3-cache-types-and-importance-of-cpu-cache-2/)
@@ -138,7 +140,6 @@
 
 ## Books
 - [Development and Deployment of Multiplayer Online Games: from social games to MMOFPS, with stock exchanges in between](http://ithare.com/contents-of-development-and-deployment-of-massively-multiplayer-games-from-social-games-to-mmofps-with-stock-exchanges-in-between/)
-- [What Every Programmer Should Know About Memory](https://akkadia.org/drepper/cpumemory.pdf)
 - [C++ Core Guidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#main)
 - [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.2011.01.02a.pdf)
 - [Memory Barriers: a Hardware View for Software Hackers](http://www.rdrop.com/users/paulmck/scalability/paper/whymb.2010.07.23a.pdf)
