@@ -32,7 +32,7 @@
   - [Acquire and Release Semantics](https://preshing.com/20120913/acquire-and-release-semantics/)
   - [Weak vs. Strong Memory Models](https://preshing.com/20120930/weak-vs-strong-memory-models/)
   - [The Synchronizes-With Relation](https://preshing.com/20130823/the-synchronizes-with-relation/)
-  - [Multithreading in C++20](https://youtu.be/A7sVFJLJM-A?si=psl7nlrIIMrIBiIr)
+- [Multithreading in C++20](https://youtu.be/A7sVFJLJM-A?si=psl7nlrIIMrIBiIr)
 
 ## CMake
 - [How to Build CMake Based Project](http://preshing.com/20170511/how-to-build-a-cmake-based-project/)
