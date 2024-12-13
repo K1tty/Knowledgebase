@@ -1,6 +1,7 @@
 # Knowledgebase
 ## Algorithms & Data Structures
 - [BIG-O Algorithm Complexity Cheat Sheet](https://www.bigocheatsheet.com/)
+- [BVH - Bounding Volume Hierarhy](https://jacco.ompf2.com/2022/04/13/how-to-build-a-bvh-part-1-basics/)
 
 ## Design & Architecture
 - [Design Patterns](https://bool.dev/blog/detail/gof-design-patterns)
