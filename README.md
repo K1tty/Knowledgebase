@@ -24,7 +24,7 @@
 - [Kapa AI](https://www.kapa.ai/) - AI Agent to answer questions in your organization based on code/documentation/messangers
 - [Articy](https://www.articy.com/en/) - all-in-one app for Narrative Design (Story FLow, Global Variables, Entities, Dialogs, Locations, Assets, Localization)
 - [Mergify](https://mergify.com/) - configurable automatic changes propagation accross GitHub branches
-- [Bluedot](https://www.bluedothq.com/) - AI notetaker for Google Meet
+- [Bluedot](https://www.bluedothq.com/) - AI notetaker for Google Meet & Microsoft Teams
 
 ## CPU
 - [CPU Caches: Population Strategies and Associativity](https://www.hardwaretimes.com/difference-between-l1-l2-and-l3-cache-types-and-importance-of-cpu-cache-2/)
