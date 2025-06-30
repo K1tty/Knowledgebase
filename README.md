@@ -132,7 +132,7 @@
 - [Collaboration Software](https://m.youtube.com/watch?v=OqqliwwG0SM&list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB&index=22)
 - [Google Spanner](https://m.youtube.com/watch?v=oeycOVX70aE&list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB&index=23)
 
-## AI
+## Game AI
 - [Goal Oriented Action Planning (GOAP)](http://alumni.media.mit.edu/~jorkin/goap.html)
 - [Unit Formations & Coordinated Movement](https://www.gamedeveloper.com/programming/implementing-coordinated-movement)
 
