@@ -36,7 +36,7 @@
 - [A trip through the Graphics Pipeline](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/)
 
 ## C++
-- [CMake template](https://github.com/cpp-best-practices/cmake_template)
+- [cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices/blob/master/00-Table_of_Contents.md) - Collaborative practices summary for C++
 - [C++ Tools and Best Practices](https://github.com/cpp-best-practices/cppbestpractices/blob/master/02-Use_the_Tools_Available.md#compilers)
 - [Perfect forwarding and universal references](https://eli.thegreenplace.net/2014/perfect-forwarding-and-universal-references-in-c)
 - [Stay away from Volatile in threaded code](https://sites.google.com/site/kjellhedstrom2/stay-away-from-volatile-in-threaded-code)
@@ -49,6 +49,7 @@
 - [Multithreading in C++20](https://youtu.be/A7sVFJLJM-A?si=psl7nlrIIMrIBiIr)
 
 ## CMake
+- [CMake template](https://github.com/cpp-best-practices/cmake_template)
 - [How to Build CMake Based Project](http://preshing.com/20170511/how-to-build-a-cmake-based-project/)
 - [Learn CMake Scripting Language in 15 minutes](http://preshing.com/20170522/learn-cmakes-scripting-language-in-15-minutes/)
 
