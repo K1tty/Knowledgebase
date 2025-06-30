@@ -141,7 +141,10 @@
 
 ## P4
 - [Perforce at Google](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/39983.pdf)
+
+## Branching Models
 - [Perforce Directory Standard](https://swarm.workshop.perforce.com/projects/perforce_software-pds/download/main/PDS.docx)
+- [Git Flow](https://nvie.com/posts/a-successful-git-branching-model/)
 
 ## Software Versioning
 - [Semantic Versioning](https://semver.org/)
