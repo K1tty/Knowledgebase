@@ -27,6 +27,7 @@
 - [Bluedot](https://www.bluedothq.com/) - AI notetaker for Google Meet & Microsoft Teams
 - [Meshy](https://www.meshy.ai/) - AI 3D Model Generator
 - [Bloaty](https://github.com/google/bloaty) - a size profiler for binaries
+- [ImageGlass](https://imageglass.org/) - Open Source image viewer
 
 ## CPU
 - [CPU Caches: Population Strategies and Associativity](https://www.hardwaretimes.com/difference-between-l1-l2-and-l3-cache-types-and-importance-of-cpu-cache-2/)
