@@ -101,6 +101,9 @@
 - [UE Reflection in Details](https://habr.com/ru/articles/690662/)
 - [How to Create Custom K2 Graph Nodes](https://unrealist.org/custom-blueprint-nodes/)
 - [UE Multiplayer Tips & Tricks](https://wizardcell.com/unreal/multiplayer-tips-and-tricks/)
+- Intel's Unreal Engine* 5 Optimization Guide
+  - [Part 1](https://www.intel.com/content/www/us/en/developer/articles/technical/unreal-engine-optimization-profiling-fundamentals.html)
+  - [Part 2](https://www.intel.com/content/www/us/en/developer/articles/technical/unreal-engine-optimization-chapter-2.html)
 
 ## DB
 - [ACID, MVCC vs Locks, Transaction Isolation Levels, and Concurrency](http://ithare.com/databases-101-acid-mvcc-vs-locks-transaction-isolation-levels-and-concurrency/)
