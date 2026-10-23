@@ -31,6 +31,8 @@
 - [Meshy](https://www.meshy.ai/) - AI 3D Model Generator
 - [Bloaty](https://github.com/google/bloaty) - a size profiler for binaries
 - [ImageGlass](https://imageglass.org/) - Open Source image viewer
+- [Code Scene: Code Health](https://codescene.com/product/code-health) - Deterministic software architecture quality metric
+
 
 ## CPU
 - [CPU Caches: Population Strategies and Associativity](https://www.hardwaretimes.com/difference-between-l1-l2-and-l3-cache-types-and-importance-of-cpu-cache-2/)
